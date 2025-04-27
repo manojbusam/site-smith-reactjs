@@ -1,4 +1,4 @@
-# Site Smith Project Setup
+# Site Smith React App Setup
 
 ## 1. Configure Git Remote with SSH
 ```
@@ -10,7 +10,7 @@ ssh -T git@github.com
 # Expected response: "Hi manojbusam! You've successfully authenticated..."
 ```
 
-## 2. Run Ansible Playbook
+## 2. Run React App
 ```
 npm --prefix react-app install && npm --prefix react-app start
 ```
